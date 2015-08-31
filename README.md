@@ -1,19 +1,19 @@
-**Step One:
+**Step One:**
 
 Low Level Check Box is Checked, use Wave function:
 
-Attack Force
-Unit  Start Quant.   End Quant.  Power Armour   Shield
-fighters              95029.00            ?        5.60       5.800        0.00
+  Attack Force
+  Unit  Start Quant.   End Quant.  Power Armour   Shield
+  fighters              95029.00            ?        5.60       5.800        0.00
 
-defensive force
-unit start quant. end quant. power armourshield
-fighters           62848           ?               8.88            4.8             0              
-cruiser            2108            ?               95.46           57.6            4              
-carrier            770             ?               36.63           57.6            4              
-dreadnought        2               ?               2237.76         1228.8          40             
-planetaryshield    25              ?               6.2             4915.2          40             
-planetaryring      30              ?               3276.8          2457.6          24      
+  defensive force
+  unit start quant. end quant. power armourshield
+  fighters           62848           ?               8.88            4.8             0              
+  cruiser            2108            ?               95.46           57.6            4              
+  carrier            770             ?               36.63           57.6            4              
+  dreadnought        2               ?               2237.76         1228.8          40             
+  planetaryshield    25              ?               6.2             4915.2          40             
+  planetaryring      30              ?               3276.8          2457.6          24      
 
 
 **Step Two:**
